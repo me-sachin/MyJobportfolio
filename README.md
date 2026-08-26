@@ -1,6 +1,6 @@
 # Sachin Kumar Sharma — Portfolio
 
-A single-page, terminal-themed portfolio built with plain HTML/CSS/JS (no frameworks, no build step).
+A single-page, terminal-themed portfolio built with plain HTML/CSS/JS (no frameworks, no build step)
 
 ## File structure
 
