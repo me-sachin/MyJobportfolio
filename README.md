@@ -2,7 +2,7 @@
 
 A single-page, terminal-themed portfolio built with plain HTML/CSS/JS (no frameworks, no build step).
 
-## File structure : 
+## File structure
 
 ```
 portfolio/
